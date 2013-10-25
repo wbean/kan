@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDownloadCache.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/Reachability.h
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASINSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASINSStringAdditions.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIFormDataRequest.h
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/Reachability.m
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIInputStream.h
+END
+ASINSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASINSStringAdditions.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wap/!svn/ver/100218/trunk/client/onsite/SinaMeyou/trunk/CloseFriend/3rdLib/ASIHTTPRequest/ASIDataCompressor.m
+END
